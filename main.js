@@ -1,5 +1,5 @@
 function addMarkerToGroup(group, coordinate, html) {
-  var pngIcon = new H.map.Icon("icons/pin.png",{size:{w:48,h:48}});
+  var pngIcon = new H.map.Icon("pin.png",{size:{w:48,h:48}});
   var marker = new H.map.Marker(coordinate,{icon:pngIcon});
   // add custom data to the marker
   marker.setData(html);
