@@ -7,10 +7,12 @@ body {
     font-weight: 300;
 }
 
-
 #map{
     border:1px solid #cdced0;
     background-color:#e4e6e9;
-    height: 95vh;
-    width: 100%;
+    position: absolute;
+    top: 15px;
+    bottom: 30px;
+    right: 15px;
+    left: 15px;
 }
