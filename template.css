@@ -7,12 +7,22 @@ body {
     font-weight: 300;
 }
 
-#map{
+#map {
     border:1px solid #cdced0;
-    background-color:#e4e6e9;
     position: absolute;
     top: 15px;
-    bottom: 30px;
+    bottom: 50px;
     right: 15px;
     left: 15px;
 }
+
+div .map-title {
+ margin: 0 0 0 10px;
+ font-size:12px;
+}
+
+
+a {
+ color: #0f1621;
+}
+
