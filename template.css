@@ -1,5 +1,5 @@
 body {
-    font-family:'Fira Sans', "Lucida Grande",Tahoma,sans-serif;
+    font-family: "Lucida Grande", Arial, Helvetica, sans-serif;
     color: #0f1621;
     background-color: transparent;
     font-size: 15px;
@@ -17,12 +17,12 @@ body {
 }
 
 div .map-title {
- margin: 0 0 0 10px;
- font-size:12px;
+    padding: 0 0 0 10px;
+    font-size: 12px;
+    background-color: aliceblue;
 }
 
-
 a {
- color: #0f1621;
+    color: #0f1621;
 }
 
