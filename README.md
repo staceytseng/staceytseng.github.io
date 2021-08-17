@@ -2,7 +2,7 @@
 
 Example (Countries/Territories I've Visited): https://fredmeng.github.io/visited-countries<br>
 
-# Follow the step by step guide and build your own maps in 5 minutes
+# Step by step guide and build your own maps in 5 minutes
 1. Create a GitHub account if you don't have one
 2. Fork https://github.com/fredmeng/fredmeng.github.io
 3. Rename the forked repository to `{your-github-username}.github.io` in Settings.
