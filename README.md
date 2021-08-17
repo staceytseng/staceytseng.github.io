@@ -8,7 +8,7 @@ Here are 2 interactive map examples:<br>
 1/ Create a GitHub account if you don't have one<br>
 2/ Fork https://github.com/fredmeng/fredmeng.github.io<br>
 3/ Rename the forked repository to `your-github-username.github.io` in Settings.<br>
-4/ Create an account on developer.here.com<br>
+4/ Create an account on https://developer.here.com<br>
 5/ Sign up for a Freemium plan<br>
 6/ Create an API key in JavaScript section and copy the key<br>
 7/ Check the option "Create a trusted domain for your app credentials", insert `your-github-username.github.io` and hit the SAVE button.<br>
