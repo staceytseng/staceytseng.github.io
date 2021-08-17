@@ -32,7 +32,7 @@ and replace my apikey your API key from step 6.<br>
 5/ 開一個 Freemium (免費)專案<br>
 6/ 在 JavaScript 底下點一下`Create API key`來獲得屬於你的專案的API金鑰。<br>
 7/ 勾選`Create a trusted domain for your app credentials`、把 `{你的GitHub帳號}.github.io` 放入文字輸入欄位，然後再點一下 SAVE 儲存。<br>
-8/ 打開 `https://github.com/{你的GitHub帳號}/{你的GitHub帳號}.github.io/credentials.js` ，然後用編輯功能(鉛筆圖形)把你在上面步驟6所取得的的API金鑰換掉我的金鑰。<br>
+8/ 打開 `https://github.com/{你的GitHub帳號}/{你的GitHub帳號}.github.io/credentials.js` ，然後用編輯功能(鉛筆圖形)把你在上面步驟6所取得的的API金鑰來換掉我的金鑰。<br>
 9/ 打開 `https://github.com/{你的GitHub帳號}/{你的GitHub帳號}.github.io/visited-countries/data.js` ，更新該檔案中的經緯度資料，然後儲存。注意該檔案每一行的格式為 `[精度,緯度,"國家地點名稱"],`(最後有一個逗點)。如果是最後一行 `[精度,緯度,"國家地點名稱"]` (拿掉最後一個逗點)。<br>
 10/ 用瀏覽器開啟 https://{你的GitHub帳號}.github.io/visited-countries/，然後你就會看到屬於你的世界地圖了！<br>
 11/ 如果你想把這個地圖放上你的網站或部落格，你可以把底下這一段程式碼複製然後貼上你的網站：`<iframe src="https://{你的GitHub帳號}.github.io/visited-countries/" width="640" height="480" frameborder="0"></iframe>`
