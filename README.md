@@ -4,8 +4,8 @@ Here are 2 interactive map examples:<br>
 1/ https://fredmeng.github.io/visited-countries<br>
 2/ https://fredmeng.github.io/rtw-travel-route<br>
 
-# Follow the step by step guide to build yours.
-1/ Create a Github account<br>
+# Follow the step by step guide to build yours
+1/ Create a GitHub account if you don't have one<br>
 2/ Fork https://github.com/fredmeng/fredmeng.github.io<br>
 3/ Rename the forked repository to `your-github-username`.github.io in Settings.<br>
 4/ Create an account on developer.here.com<br>
