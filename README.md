@@ -1,6 +1,6 @@
 # Get your own maps up and running in 5 minutes (no coding needed!!!)
 
-Example (Countries/Territories I've Visited): https://fredmeng.github.io/visited-countries
+Example: https://fredmeng.github.io/visited-countries (Countries/Territories I've Visited)
 
 1. Create a GitHub account if you don't have one
 2. Fork https://github.com/fredmeng/fredmeng.github.io
@@ -19,7 +19,7 @@ and replace my apikey with yours from step 6.
 
 免費 / 免寫程式 / 只要複製貼上加上動動滑鼠
 
-範例(曾經去過的國家跟地區): https://fredmeng.github.io/visited-countries
+範例: https://fredmeng.github.io/visited-countries (曾去過的國家跟地區)
 
 1. 開一個 GitHub 帳號 (如果你沒有的話)
 2. Fork https://github.com/fredmeng/fredmeng.github.io
