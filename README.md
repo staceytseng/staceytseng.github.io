@@ -7,7 +7,7 @@ Example: https://fredmeng.github.io/visited-countries (Countries/Territories I'v
 3. Rename the forked repository to `{your-github-username}.github.io` in Settings.
 4. Create an account on https://developer.here.com if you don't have one
 5. Sign up for a Freemium plan
-6. Create an API key in JavaScript section and copy the key
+6. Create a JavaScript API key and copy it
 7. Check the option "Create a trusted domain for your app credentials", insert `{your-github-username}.github.io` and hit the SAVE button.
 8. Edit `https://github.com/{your-github-username}/{your-github-username}.github.io/blob/mastercredentials.js`
 and replace my apikey with yours from step 6.
