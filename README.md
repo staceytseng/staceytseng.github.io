@@ -1,8 +1,7 @@
-# How to create your own interactive maps without coding?
+# Get your own maps up and running in 5 minutes (no coding needed!!!)
 
-Example (Countries/Territories I've Visited): https://fredmeng.github.io/visited-countries<br>
+Example (Countries/Territories I've Visited): https://fredmeng.github.io/visited-countries
 
-# Get your own maps up and running in 5 minutes
 1. Create a GitHub account if you don't have one
 2. Fork https://github.com/fredmeng/fredmeng.github.io
 3. Rename the forked repository to `{your-github-username}.github.io` in Settings.
@@ -16,11 +15,12 @@ and replace my apikey with yours from step 6.
 10. Open `https://{your-github-username}.github.io/visited-countries/` to see your visited countries on a pretty interactive map!
 11. (Optional) If you want to embed the new map on your website or blog, here is the code. `<iframe src="https://{your-github-username}.github.io/visited-countries/" width="640" height="480" frameborder="0"></iframe>`
 
-# 免寫程式也可以製作屬於自己的互動式地圖
+# 五分鐘搞定屬於你自己的互動式地圖 
 
-範例(曾經去過的國家跟地區): https://fredmeng.github.io/visited-countries<br>
+免費 / 免寫程式 / 只要複製貼上加上動動滑鼠
 
-# 五分鐘搞定屬於你自己的互動式地圖
+範例(曾經去過的國家跟地區): https://fredmeng.github.io/visited-countries
+
 1. 開一個 GitHub 帳號 (如果你沒有的話)
 2. Fork https://github.com/fredmeng/fredmeng.github.io
 3. 在設定(Settings)中把你複製來的目錄更名成 `{你的GitHub帳號}.github.io`
