@@ -12,7 +12,7 @@ Here are 2 interactive map examples:<br>
 5/ Sign up for a Freemium plan<br>
 6/ Create an API key in JavaScript section and copy the key<br>
 7/ Check the option "Create a trusted domain for your app credentials", insert `your-github-username.github.io` and hit the SAVE button.<br>
-8/ Navigate back to your GiHhub respository https://github.com/{your-github-username}/{your-github-username}.github.io and replace the apikey value in `credentials.js` with the new API key you just created on developer.here.com.<br>
+8/ Edit https://github.com/{your-github-username}/{your-github-username}.github.io/`credentials.js` and replace my apikey your API key from step 6.<br>
 9/ Edit (pencil icon) https://github.com/{your-github-username}/{your-github-username}.github.io/visited-countries/`data.js`, update the geolocations list to meet your use case, and then save. The data format is `[lat,lng,"country name"],`. If the last entry, it should be `[lat,lng,"country name"]` (without the last comma).<br>
 10/ Open https://{your-github-username}.github.io/visited-countries/ to see your visited countries on a pretty interactive map!<br>
 11/ (Optional) If you want to embed the new map on your website or blog, here is the code. `<iframe src="https://your-github-username.github.io/visited-countries/" width="640" height="480" frameborder="0"></iframe>`
