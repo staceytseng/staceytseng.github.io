@@ -1,6 +1,6 @@
 # How to create your own interactive maps without coding?
 
-Here are an interactive map example: https://fredmeng.github.io/visited-countries (Countries/Territories I've Visited)<br>
+Example (Countries/Territories I've Visited): https://fredmeng.github.io/visited-countries<br>
 
 # Follow the step by step guide to build yours
 1/ Create a GitHub account if you don't have one<br>
@@ -18,7 +18,7 @@ and replace my apikey your API key from step 6.<br>
 
 # 免寫程式也可以製作屬於自己的互動式地圖
 
-範例: https://fredmeng.github.io/visited-countries (曾經去過的國家跟地區)<br>
+範例(曾經去過的國家跟地區): https://fredmeng.github.io/visited-countries<br>
 
 # 照著底下的步驟做，五分鐘搞定屬於你自己的互動式地圖
 1/ 開一個 GitHub 帳號 (如果你沒有的話)<br>
