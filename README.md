@@ -20,7 +20,7 @@ and replace my apikey your API key from step 6.<br>
 
 範例(曾經去過的國家跟地區): https://fredmeng.github.io/visited-countries<br>
 
-# 照著底下的步驟做，五分鐘搞定屬於你自己的互動式地圖
+# 照著步驟，五分鐘搞定屬於你自己的互動式地圖
 1/ 開一個 GitHub 帳號 (如果你沒有的話)<br>
 2/ Fork https://github.com/fredmeng/fredmeng.github.io<br>
 3/ 在設定(Settings)中把你複製來的目錄更名成 `{你的GitHub帳號}.github.io`<br>
