@@ -1,4 +1,4 @@
-# Interactive Maps utlising HERE Maps JavaScript API
+# Interactive Maps utilising HERE Maps JavaScript API
 
 ## Get your own maps up and running in 5 minutes (no coding!)
 
