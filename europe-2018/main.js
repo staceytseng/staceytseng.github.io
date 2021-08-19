@@ -11,18 +11,6 @@ function addInfoBubble(map) {
 
   map.addObject(group);
 
-  // add 'tap' event listener, that opens info bubble, to the group
-  group.addEventListener('tap', function (evt) {
-    // event target is the marker itself, group is a parent event target
-    // for all objects that it contains
-    var bubble = new H.ui.InfoBubble(evt.target.getGeometry(), {
-      // read custom data
-      content: evt.target.getData()
-    });
-    // show info bubble
-    ui.addBubble(bubble);
-  }, false);
-
 coords.forEach((el)=> {
   addMarkerToGroup(group, {lat:el[0],lng:el[1]},el[2]);
   })
