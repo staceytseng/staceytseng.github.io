@@ -78,3 +78,9 @@ var ui = H.ui.UI.createDefault(map, defaultLayers);
 // Now use the map
 addPolylineToMap(map);
 addInfoBubble(map);
+
+// Google Analytics
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-76772788-8');
