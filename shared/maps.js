@@ -1,6 +1,6 @@
 function addMarkersAndSetViewBounds() {
   var group = new H.map.Group();
-  var pngIcon = new H.map.Icon("../pin.png",{size:{w:48,h:48}});
+  var pngIcon = new H.map.Icon("pin.png",{size:{w:48,h:48}});
 
   // add markers to the group
   coords.forEach((el)=> {
