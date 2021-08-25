@@ -17,9 +17,14 @@ body {
 }
 
 div .map-title {
-    padding: 0 0 0 10px;
-    font-size: 12px;
-    background-color: aliceblue;
+   left: 0px; 
+   top: 0px; 
+   position: absolute; 
+   background-color: rgba(255, 255, 255, 0.8); 
+   color: rgb(15, 22, 33); 
+   padding: 2px 16px;
+   z-index : 1;
+   font-size: 12px;
 }
 
 a {
